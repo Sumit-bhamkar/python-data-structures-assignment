@@ -1,35 +1,26 @@
 # Python Data Structures Assignment
 
-This assignment demonstrates the use of basic Python data structures.
+This repository contains solutions for the Python Data Structures assignment.
 
-## Tasks
+## Files
 
-Task 1 – Lists & Tuples
-- Create product list
-- Access elements
-- Append products
-- Convert tuple to list and update price
+task1_product_collections.py
+→ Lists and Tuples operations
 
-Task 2 – Sets
-- Create set of categories
-- Add category
-- Check category existence
-- Count unique categories
+task2_categories_sets.py
+→ Set operations for product categories
 
-Task 3 – Dictionaries
-- Store product prices
-- Add, update and remove product
-- Calculate average price
-- Find max and min priced product
+task3_product_pricing.py
+→ Dictionary operations for product prices
 
-Task 4 – Combined Operations
-- Create catalog (product_name, price, category)
-- Map category to products
-- Find category with maximum products
+task4_combined_operations.py
+→ Combined use of lists, tuples and dictionaries
 
-## Run the program
+## How to Run
 
+Run each file individually:
 
-# Link of repo
-
-https://github.com/Sumit-bhamkar/python-data-structures-assignment
+python task1_product_collections.py
+python task2_categories_sets.py
+python task3_product_pricing.py
+python task4_combined_operations.py
